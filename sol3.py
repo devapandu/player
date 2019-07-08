@@ -1,2 +1,2 @@
-dev=int(input())
+dev=input()
 print(dev[::-1])
