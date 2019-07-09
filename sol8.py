@@ -1,0 +1,6 @@
+he=input()
+he=he.split()
+he[0]=he[0].capitalize()
+he[1]=he[1].capitalize()
+print(he[0],end=" ")
+print(he[1])
